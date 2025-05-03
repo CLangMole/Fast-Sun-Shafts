@@ -7,3 +7,6 @@ Pros: -fast for mobile platforms, doesn't use depth buffer
 Cons: -artifacts because of the clamp-samling (=> you can try mirror-wrapping)
       -dither-noise is still visible (=> you can increase blur steps)
       -the whole sky casts shafts in this example (you can try alpha cubemaps for skybox)
+![image](https://github.com/user-attachments/assets/90bf062e-e8be-4c37-8a25-a02fc6ea457a)
+![image](https://github.com/user-attachments/assets/333a251b-ec39-41ee-9297-b83694f58d02)
+
